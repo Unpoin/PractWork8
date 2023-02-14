@@ -1,2 +1,2 @@
 # PractWork8
-readme
+Hello mazafaka
